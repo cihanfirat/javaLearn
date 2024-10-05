@@ -1,6 +1,6 @@
 
                                     Project Overview: Student Grade Management System
-            - 10.05.2024
+            - 10.05.2024 -> v1
 
 1. Project Description
 The Student Grade Management System is a console-based application designed to manage student information, including their names and grades. This project allows users to perform various operations such as adding students, assigning grades, displaying student information, and identifying the top-performing student based on average grades.
