@@ -30,16 +30,18 @@ The project follows an object-oriented design with the following components:
 
 * Student: Represents individual students, encapsulating their names and grades, and providing methods to manage this data.
 * StudentGradeManager: The main class that handles user interactions, manages a list of students, and performs operations based on user input.
+---------------------------------------------------------------------------------------------------------------
 
 6. Implementation Details
 * Encapsulation: Student attributes (name and grades) are encapsulated within the Student class, ensuring data security and integrity.
 * Abstraction: The implementation details of grade management are hidden from users, exposing only necessary methods (e.g., addGrade, getAverageGrade).
-
 * Modularity: The project is divided into separate files for clarity, making it easier to manage and maintain.
 * Ease of Expansion: The design allows for future enhancements, such as adding more features (e.g., additional student attributes, grade weighting) without significant refactoring.
+---------------------------------------------------------------------------------------------------------------
 
 7. User Interaction
 The application operates through a text-based menu system, guiding users to select desired operations. Users interact with the program via keyboard input, making it straightforward to use.
+---------------------------------------------------------------------------------------------------------------
 
 8. Future Enhancements
 * User Authentication: Implement user authentication for secure access.
