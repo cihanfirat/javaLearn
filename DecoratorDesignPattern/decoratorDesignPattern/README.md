@@ -1,0 +1,1 @@
+This design pattern is used to dynamically change or extend the behavior of an object. This pattern allows adding functionality by wrapping an object with another object (composition), rather than subclassing (inheritance).
