@@ -32,8 +32,6 @@ Big Data Applications: Any structure that contains a lot of repeating objects.
 House objects have some common features (e.g. house type, wall color).
 These shared features are created only once for each house.
 Different features of each house (e.g. number of rooms, location) are unique to each house object.
----------------------------------------------------------------------
-
 
 
     Explanations
